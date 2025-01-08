@@ -5,6 +5,7 @@ export default function header() {
     <div>
       <h1>hii</h1>
       <button>click</button>
+      <p>hello</p>
     </div>
   )
 }
